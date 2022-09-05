@@ -8,8 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This gym application contains more than 1300 exercises in the form of animated GIFs with information about the body part, target muscle and equipment necessary for the particular exercise. It also provides videos for exercises as well as similar exercises for any exercise according to similar target muscle and similar equipment used.
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/65750712/188435491-398dac52-feec-4338-b65b-9abb4472c3b9.png)
+
 ![Screenshot (55)](https://user-images.githubusercontent.com/65750712/188435508-c157caa7-d343-4b61-a1e8-50cd014195d4.png)
+
 ![Screenshot (56)](https://user-images.githubusercontent.com/65750712/188435520-afffc60d-c468-420b-80e1-990d87ba70eb.png)
+
 ![Screenshot (57)](https://user-images.githubusercontent.com/65750712/188435538-8627409b-82e4-4ca5-b8b8-ecfc300c2463.png)
 
 
